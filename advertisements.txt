@@ -1,0 +1,3 @@
+[Advertisements]
+Ad1="Do you need protection? Install Batch Antivirus!"
+Ad2="Illegal Services has [tool name] that allows you to [tool description]"
