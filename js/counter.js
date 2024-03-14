@@ -2,6 +2,6 @@ document.addEventListener("DOMContentLoaded", function() {
   const counterText = document.getElementById("counter-text");
 
   if (counterText) {
-    counterText.textContent = "Updated: 13/03/2024  |  8979 links indexed.";
+    counterText.textContent = "Updated: 14/03/2024  |  9001 links indexed.";
   }
 });
